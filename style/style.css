@@ -1,0 +1,22 @@
+#header {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.svgClass {
+    margin-top: 5%;
+    margin-left: 5%;  
+}
+
+section {
+    margin-top: 5%;
+    width: 70%;
+    margin-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    margin-left: 43%;
+    margin-top: 5%;
+}
